@@ -150,7 +150,7 @@ export const contactData = {
 };
 
 export const navigationData = {
-  logo: "M.",
+  logo: "P.",
   sections: [
     { id: "home", name: "Home", icon: "Home" },
     { id: "about", name: "About", icon: "User" },
